@@ -6,3 +6,7 @@
 ***
 ### 전국 대회
 * [충남 1과제(Simple.Is.Best)](https://github.com/BOSOEK/robot/tree/main/%EC%B6%A9%EB%82%A8_1%EA%B3%BC%EC%A0%9C(Simple.Is.Best))
+***
+### 지방 대회
+***
+### 국제 대회
