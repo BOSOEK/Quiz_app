@@ -10,6 +10,6 @@
 * [2020 전국 기능 경기 2과제(서랍장)](https://github.com/BOSOEK/robot/blob/main/2020%EC%A0%84%EA%B5%AD%20%EA%B8%B0%EB%8A%A5%20%EA%B2%BD%EA%B8%B0%20%EA%B3%BC%EC%A0%9C/2%EA%B3%BC%EC%A0%9C_%EC%84%9C%EB%9E%8D%EC%9E%A5/README.md)
 ***
 ### 지방 대회
-* [2020 1과제(Cross Line)](https://github.com/BOSOEK/robot/blob/main/%EC%A7%80%EB%B0%A9%EB%8C%80%ED%9A%8C/2020%EC%A7%80%EB%B0%A9%201%EA%B3%BC%EC%A0%9C%20Cross%20Line)
+* [2020 1과제(Cross Line)](https://github.com/BOSOEK/robot/blob/main/%EC%A7%80%EB%B0%A9%EB%8C%80%ED%9A%8C/2020%EC%A7%80%EB%B0%A9%201%EA%B3%BC%EC%A0%9C%20Cross%20Line.md)
 ***
 ### 국제 대회
