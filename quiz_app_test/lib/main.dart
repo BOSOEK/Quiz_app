@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'My Quiz App',
-      home: HomeScreen(),
+      home: HomeScreen(), # 화면은 다른 파일에서 제작
     );
   }
 }
