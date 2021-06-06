@@ -8,7 +8,7 @@ class CandWidget extends StatefulWidget {
   bool answerState;
 
   CandWidget({this.tap, this.index, this.width, this.text, this.answerState});
-  _CandWidgetState cteateState() => _CandWidgetState();
+  _CandWidgetState createState() => _CandWidgetState();
 }
 
 class _CandWidgetState extends State<CandWidget> {
